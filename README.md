@@ -1,3 +1,3 @@
-# React Electron
+# Albion Helper
 
-This is a base project for react and electron projects
+This project is a destkop program that primaly helps players on albion market analysis by consuming the Albion Online Data Client API.
